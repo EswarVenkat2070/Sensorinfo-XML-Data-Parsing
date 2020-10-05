@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- After Updation, add &#xA; before the inclusion of each parameter. For eg : temp:0-20&#xA;-->
+<sensors>
+    <sensor>
+        <name>LM35 Temperature Sensor</name>
+        <para>Range(Celcius) : -40 to 110&#xA;DET Range : 5cm&#xA;Range : 0-29</para>
+    </sensor>
+    <sensor>
+        <name>MQ2 Gas Sensor</name>
+        <para>Range : 0-29</para>
+    </sensor>
+    <sensor>
+        <name>DHT11 Temp and Humidity Sensor</name>
+          <para>Range (Celcius) : 0-50 &#xA; Range (Celcius) : 0-50</para>
+    </sensor>
+    <sensor>
+        <name>LM35 Temperature Sensor</name>
+        <para>Range(Celcius) : -40 to 110 &#xA; DET Range : 5cm&#xA;Range : 0-29</para>
+    </sensor>
+    <sensor>
+        <name>MQ2 Gas Sensor</name>
+        <para>Range : 0-29</para>
+    </sensor>
+    <sensor>
+        <name>DHT11 Temp and Humidity Sensor</name>
+        <para>Range (Celcius) : 0-50 &#xA; Range (Celcius) : 0-50</para>
+    </sensor>
+    <sensor>
+        <name>LM35 Temperature Sensor</name>
+        <para>Range(Celcius) : -40 to 110 &#xA; DET Range : 5cm&#xA;Range : 0-29</para>
+    </sensor>
+    <sensor>
+        <name>MQ2 Gas Sensor</name>
+        <para>Range : 0-29</para>
+    </sensor>
+    <sensor>
+        <name>DHT11 Temp and Humidity Sensor</name>
+        <para>Range (Celcius) : 0-50 &#xA; Range (Celcius) : 0-50</para>
+    </sensor>
+    <sensor>
+        <name>LM35 Temperature Sensor</name>
+        <para>Range(Celcius) : -40 to 110 &#xA; DET Range : 5cm&#xA;Range : 0-29</para>
+    </sensor>
+    <sensor>
+        <name>MQ2 Gas Sensor</name>
+        <para>Range : 0-29</para>
+    </sensor>
+    <sensor>
+        <name>DHT11 Temp and Humidity Sensor</name>
+        <para>Range (Celcius) : 0-50 &#xA; Range (Celcius) : 0-50</para>
+    </sensor>
+
+
+</sensors>
